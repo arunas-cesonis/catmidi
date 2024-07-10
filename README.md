@@ -1,6 +1,7 @@
 ## catmidi
 
 A simple CLI tool to read/write MIDI ports via stdio.
+Messages are read & printed as lines of hexadecimal bytes.
 
 ### Examples
 
